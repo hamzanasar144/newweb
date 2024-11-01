@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body{
+    /* background-image: src="url(Homepage-Accessories-Desktop-US.avif)"; */
+    background-image:url(Homepage-Accessories-Desktop-US.avif);
+    /* width: 300;*/
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: auto; 
+    background-size: 100%
+    }
+.new {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.web {
+    color: white;
+    font-size: 30px;
+    margin: 0;
+    font-family: "Creepster", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 20px;
+    
+}
+#new {
+    position: relative;
+    color: white;
+    font-size: 50px;
+    background-image:url(Homepage-Model-3-Desktop-US.avif);
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: auto;
+    background-size: 100%;
+}
+
+
